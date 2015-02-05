@@ -18,6 +18,9 @@ public class Principal {
 		
 		System.out.println("Mes proves a la web");
 		
+		
+		System.out.println("Des de l'eclipse");
+		
 	}
 
 }
